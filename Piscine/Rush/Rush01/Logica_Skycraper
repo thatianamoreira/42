@@ -1,0 +1,11 @@
+1) Procurar se tem bandeira 4, se tiver, preencher 1234, nessa ordem, nas linhas e colunas 
+
+2) Percorrer as linhas da esq para a direita e da direita para a esq, e colocar 4 nas linhas que começam com 1
+
+3) Checar se alguma linha não tem 4 e preencher com 4 na coluna que não tiver 4
+
+4) Quando o 4 for o último número de uma linha ou coluna e a bandeira for 2, colocar 3 no primeiro quadrado da linha ou coluna
+
+5) Checar se alguma linha não tem 3 e preencher com 3 na coluna que não tiver 3
+
+6) 

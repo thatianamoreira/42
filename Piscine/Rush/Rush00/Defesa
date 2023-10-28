@@ -1,0 +1,4 @@
+C é uma linguagem de programação compilada, então é necessário  converter o código fonte para linguagem de máquina.
+
+Porque escrever void ou int antes do nome da função? Para definir o tipo de retorno da função.
+
